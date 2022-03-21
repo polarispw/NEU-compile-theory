@@ -1,0 +1,7 @@
+﻿  后端优化和目标代码.cpp
+C:\Users\Alienware\Desktop\编译test\目标代码测试\ConsoleApplication1\后端优化和目标代码.h(12,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Alienware\Desktop\编译test\目标代码测试\ConsoleApplication1\后端优化和目标代码.cpp(244,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Alienware\Desktop\编译test\目标代码测试\ConsoleApplication1\后端优化和目标代码.cpp(247,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Alienware\Desktop\编译test\目标代码测试\ConsoleApplication1\后端优化和目标代码.cpp(250,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Alienware\Desktop\编译test\目标代码测试\ConsoleApplication1\后端优化和目标代码.cpp(253,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  ConsoleApplication1.vcxproj -> C:\Users\Alienware\Desktop\编译test\目标代码测试\Debug\ConsoleApplication1.exe

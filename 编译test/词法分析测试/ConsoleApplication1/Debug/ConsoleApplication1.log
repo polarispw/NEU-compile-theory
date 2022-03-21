@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Alienware\Desktop\编译test\词法分析测试\ConsoleApplication1\词法分析.h(68,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Alienware\Desktop\编译test\词法分析测试\ConsoleApplication1\词法分析.h(73,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Alienware\Desktop\编译test\词法分析测试\ConsoleApplication1\词法分析.h(78,23): warning C4018: “<”: 有符号/无符号不匹配
+  ConsoleApplication1.vcxproj -> C:\Users\Alienware\Desktop\编译test\词法分析测试\Debug\ConsoleApplication1.exe
